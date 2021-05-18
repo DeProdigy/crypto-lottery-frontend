@@ -1,5 +1,6 @@
 {
   "name": "lottery-react",
+  "homepage": "http://deprodigy.github.io/crypto-lottery-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
